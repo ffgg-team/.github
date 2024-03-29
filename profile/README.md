@@ -1,12 +1,12 @@
-## Hi there 👋
+## 欢迎来到FeiFeiGeGe Studio Pages 👋
 
 <!--
 
-**Here are some ideas to get you started:**
+**你可以获得什么？:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🙋‍♀️ 亲自给成员提问，可能能获得一些小情报（?）
+🌈 让成员修Bug，项目稳定性+1
+👩‍💻 查看docs，从这玩意儿啥也不会用，变成好简单！
+🍿 成员可能会分享一些生活日记，备好小板凳，准备瓜子和爆米花，开看（doge
+🧙 更多消息，请前往FeiFeiGeGe Studio旗下WanJiang Team官网:https://www.ffggwj.cn/获取！
 -->
